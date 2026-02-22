@@ -4,9 +4,9 @@
 
 `MUIOGO` currently runs as a Flask application that serves:
 
-- backend API routes from `API/`,
-- static frontend assets from `WebAPP/`,
-- model data and run artifacts in `WebAPP/DataStorage/`.
+- backend API routes from `API/`
+- static frontend assets from `WebAPP/`
+- model data and run artifacts in `WebAPP/DataStorage/`
 
 Solver execution is handled by backend subprocess calls (GLPK/CBC).
 
